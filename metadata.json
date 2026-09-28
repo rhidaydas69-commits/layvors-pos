@@ -1,0 +1,6 @@
+{
+  "name": "Layover POS",
+  "description": "Offline restaurant POS with menu grid, billing cart, KOT and receipt thermal printing (ESC/POS 58mm/80mm), and SQLite database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
